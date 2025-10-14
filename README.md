@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @T-Hub06
 - 👀 I’m interested in making more projects
-- 🌱 I’m currently learning C language 
+- 🌱 I’m currently enhancing my coding skills
 - ⚡ Fun fact: trying to become an AI 😅
 
 <!---
