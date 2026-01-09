@@ -1,21 +1,45 @@
-# 💫 About Me:
-I'm currently pursuing my BCA (AI/DS) degree<br>I'm currently learning Data Science and Machine Learning<br>
+# Hi, I'm Tushar Joshi 👋  
+BCA (AI/DS) Student | Data Science & Machine Learning
 
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tusharjoshi_04) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tushar-joshi-349940336) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Tushar_joshi17) 
+# About Me
+- Currently pursuing BCA in Artificial Intelligence & Data Science
+- Focused on building practical, project-based skills in Data Science and ML
+- Interested in applying ML techniques to real-world datasets and automation problems
+- Actively improving my understanding of data analysis, model building, and visualization
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=T-Hub06&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=T-Hub06&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=T-Hub06&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=T-Hub06&limit=5&theme=dark&combine_all_yearly_contributions=true)
+# Tech Stack
+- Python, C, SQL  
+- Pandas, NumPy, Matplotlib  
+- Plotly, Streamlit  
+- Scikit-learn  
 
----
-[![](https://visitcount.itsvg.in/api?id=T-Hub06&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# Featured Projects
+
+Junk File Organiser  
+- Automatically organizes files based on their extensions  
+- Built using Python and Tkinter  
+- Focused on simplifying file management through automation  
+🔗 https://github.com/T-Hub06/Junk-File-Organiser
+
+EDA Dashboard  
+- Interactive and fast exploratory data analysis dashboard for any CSV file  
+- Built with Python, Pandas, Streamlit, Plotly, and Scikit-learn  
+- Designed for usability and quick insights without manual coding  
+🔗 https://github.com/T-Hub06/EDA-dashboard
+
+
+# Currently Learning
+- Neural Networks (foundations and implementation)
+- Machine Learning algorithms and workflows
+- Applied Data Science techniques
+
+
+# Connect With Me
+- LinkedIn: https://www.linkedin.com/in/tushar-joshi-349940336  
+- Instagram: https://www.instagram.com/tusharjoshi_04  
+- X (Twitter): https://x.com/Tushar_joshi17  
+
+
