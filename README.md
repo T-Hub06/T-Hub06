@@ -33,7 +33,7 @@ EDA Dashboard
 Campus Lost and Found
 - Build a web based lost & found platformfor college campuses that allows student to report, search, and filter lost or found items with a clean and responsive UI
 - Developed using HTML, CSS, and JavaScript with a FastAPI Python backend
-🧷 https://github.com/T-Hub06/Campus-Lost-and-Found
+🔗 https://github.com/T-Hub06/Campus-Lost-and-Found
 
 
 # Currently Learning
