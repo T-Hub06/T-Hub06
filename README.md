@@ -13,7 +13,8 @@ BCA (AI/DS) Student | Data Science & Machine Learning
 - Python, C, SQL  
 - Pandas, NumPy, Matplotlib  
 - Plotly, Streamlit  
-- Scikit-learn  
+- Scikit-learn
+- HTML, CSS, JavaScript, PHP
 
 
 # Featured Projects
